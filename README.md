@@ -6,8 +6,6 @@ c++ 使用cmake构建，主要环境为：TensorRT-8.6.0.12 + cuda 11.6
 
 存在两个文件夹，一个是的opencv是有cuda加速的，需要重新编译opencv 4.5.0 ,经过测试使用这个进行加速才有意义。
 
-![image](https://github.com/user-attachments/assets/b2e1e3dc-b6d5-455a-a86e-c054ae0266c8)
-
 ![image](https://github.com/user-attachments/assets/7f3247b8-f02b-4dd5-9794-a1cc9f39712f)
 
 ![image](https://github.com/user-attachments/assets/42931506-707d-40be-9a10-accdea18bc55)
